@@ -209,7 +209,7 @@
           <mxGeometry x="275" y="128" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YwZXC1ZP3NBYil8dUB7Y-35" value="Via" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#46495D;" parent="1" vertex="1">
-          <mxGeometry x="280" y="158" width="40" height="30" as="geometry" />
+          <mxGeometry x="275" y="150" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YwZXC1ZP3NBYil8dUB7Y-36" value="CAP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="85" y="70" width="50" height="30" as="geometry" />
@@ -248,7 +248,7 @@
           <mxGeometry x="345" y="128" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YwZXC1ZP3NBYil8dUB7Y-44" value="Desc." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#46495D;" parent="1" vertex="1">
-          <mxGeometry x="355" y="158" width="50" height="30" as="geometry" />
+          <mxGeometry x="350" y="150" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YwZXC1ZP3NBYil8dUB7Y-45" value="Prezzo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="600" y="110" width="60" height="30" as="geometry" />
